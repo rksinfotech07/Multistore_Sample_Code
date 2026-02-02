@@ -1,0 +1,7 @@
+{
+  "name": "Nexus Multi-Vendor Marketplace",
+  "description": "A comprehensive multi-category shop management and admin platform featuring automated onboarding, real-time order tracking, and intelligent product management.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
